@@ -93,7 +93,10 @@ var __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$i
 ;
 ;
 const metadata = {
-    title: 'Acme Dashboard',
+    title: {
+        template: '%s | Acme Dashboard',
+        default: 'Acme Dashboard'
+    },
     description: 'The official Next.js Course Dashboard, built with App Router.',
     metadataBase: new URL('https://next-learn-dashboard.vercel.sh')
 };
@@ -105,12 +108,12 @@ function RootLayout({ children }) {
             children: children
         }, void 0, false, {
             fileName: "[project]/app/layout.tsx",
-            lineNumber: 17,
+            lineNumber: 20,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/layout.tsx",
-        lineNumber: 16,
+        lineNumber: 19,
         columnNumber: 5
     }, this);
 }
