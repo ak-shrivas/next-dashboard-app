@@ -1,8 +1,8 @@
 /* [project]/app/ui/home.module.css [app-client] (css) */
 .home-module__7sF-sa__shape {
   border-bottom: 30px solid #000;
-  border-left: 20px solid #0000;
-  border-right: 20px solid #0000;
+  border-left: 20px solid rgba(0, 0, 0, 0);
+  border-right: 20px solid rgba(0, 0, 0, 0);
   width: 0;
   height: 0;
 }
