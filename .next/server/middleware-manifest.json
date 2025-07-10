@@ -3,12 +3,12 @@
   "middleware": {
     "/": {
       "files": [
-        "server/edge/chunks/_7b9a913f._.js",
+        "server/edge/chunks/_2c6af77e._.js",
         "server/edge/chunks/node_modules_@auth_core_8ee6c4b6._.js",
         "server/edge/chunks/node_modules_jose_dist_browser_2a136122._.js",
         "server/edge/chunks/node_modules_27968bab._.js",
         "server/edge/chunks/[root-of-the-server]__e15a8b78._.js",
-        "server/edge/chunks/edge-wrapper_bf9a9e78.js"
+        "server/edge/chunks/edge-wrapper_47d26bde.js"
       ],
       "name": "middleware",
       "page": "/",

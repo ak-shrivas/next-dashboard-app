@@ -1,32 +1,20 @@
 {
   "pages": {
     "/_app": [
-      "static/chunks/node_modules_next_dist_compiled_next-devtools_index_82a36480.js",
-      "static/chunks/node_modules_next_dist_compiled_2805a09d._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_aab358cb._.js",
-      "static/chunks/node_modules_next_dist_client_becf32a6._.js",
-      "static/chunks/node_modules_next_dist_4284e4db._.js",
-      "static/chunks/node_modules_next_app_95ea274f.js",
-      "static/chunks/[next]_entry_page-loader_ts_f9f6e84e._.js",
+      "static/chunks/[root-of-the-server]__e2c08166._.js",
       "static/chunks/node_modules_react-dom_82bb97c6._.js",
-      "static/chunks/node_modules_f2979c3a._.js",
+      "static/chunks/node_modules_a51498a5._.js",
       "static/chunks/[root-of-the-server]__010dee56._.js",
       "static/chunks/pages__app_5771e187._.js",
-      "static/chunks/pages__app_8c842675._.js"
+      "static/chunks/pages__app_81fcc10c._.js"
     ],
     "/_error": [
-      "static/chunks/node_modules_next_dist_compiled_next-devtools_index_82a36480.js",
-      "static/chunks/node_modules_next_dist_compiled_2805a09d._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_b55f0ef8._.js",
-      "static/chunks/node_modules_next_dist_client_becf32a6._.js",
-      "static/chunks/node_modules_next_dist_eff99752._.js",
-      "static/chunks/node_modules_next_error_8c8bf619.js",
-      "static/chunks/[next]_entry_page-loader_ts_8ccf5f86._.js",
+      "static/chunks/[root-of-the-server]__8df7605f._.js",
       "static/chunks/node_modules_react-dom_82bb97c6._.js",
-      "static/chunks/node_modules_f2979c3a._.js",
+      "static/chunks/node_modules_a51498a5._.js",
       "static/chunks/[root-of-the-server]__95ff7225._.js",
       "static/chunks/pages__error_5771e187._.js",
-      "static/chunks/pages__error_fde6d826._.js"
+      "static/chunks/pages__error_4e36d337._.js"
     ]
   },
   "devFiles": [],
